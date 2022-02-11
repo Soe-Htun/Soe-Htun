@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Soe-Htun/Soe-Htun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soe-Htun&&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soe-Htun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
