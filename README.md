@@ -17,6 +17,7 @@ I’m a passionate Frontend Developer who loves building fast, scalable, and use
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)  
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)  
 ![UnoCSS](https://img.shields.io/badge/-UnoCSS-333?style=flat-square&logo=unocss&logoColor=fff)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff) 
 
 #### **State Management & Tools**  
 ![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=flat-square&logo=pinia&logoColor=000)  
