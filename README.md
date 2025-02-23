@@ -16,6 +16,12 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soe-Htun&&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soe-Htun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soe-Htun&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soe-Htun&layout=compact&theme=tokyonight&langs_count=6&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
